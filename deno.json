@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "svg2pdf.js_deno": "https://github.com/cschlusche/svg2pdf.js/raw/feat-context-deno/dist/svg2pdf.es.js",
+    }
+}
